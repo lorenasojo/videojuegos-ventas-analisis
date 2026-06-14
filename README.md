@@ -6,7 +6,7 @@ Objetivo:
 
 Identificar tendencias de ventas por plataforma, género, región y clasificación ESRB, así como validar hipótesis mediante pruebas estadísticas.
 
-Herramientas utilizadas
+Herramientas utilizadas:
 Python
 Pandas
 NumPy
@@ -21,7 +21,7 @@ Análisis de plataformas y géneros
 Análisis regional de ventas
 Pruebas de hipótesis estadísticas
 Visualización de resultados
-Principales hallazgos
+Principales hallazgos:
 Las plataformas presentan ciclos de vida definidos.
 Existen diferencias regionales en las preferencias de los usuarios.
 La clasificación ESRB influye de forma distinta según la región.
