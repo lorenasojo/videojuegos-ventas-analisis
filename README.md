@@ -1,9 +1,8 @@
 Análisis de Ventas de Videojuegos
-Descripción del proyecto
 
 Análisis exploratorio de datos y pruebas de hipótesis sobre ventas de videojuegos a nivel global para identificar patrones de éxito comercial y factores asociados al desempeño de los títulos.
 
-Objetivo
+Objetivo:
 
 Identificar tendencias de ventas por plataforma, género, región y clasificación ESRB, así como validar hipótesis mediante pruebas estadísticas.
 
