@@ -2,11 +2,6 @@
 
 ## Descripción del proyecto
 
-Este proyecto analiza datos de ventas de videojuegos a nivel global con el objetivo de identificar patrones de éxito comercial y evaluar el comportamiento de
-# Análisis de Ventas de Videojuegos
-
-## Descripción del proyecto
-
 Este proyecto analiza datos de ventas de videojuegos a nivel global con el objetivo de identificar patrones de éxito comercial y evaluar el comportamiento de distintos mercados.
 
 ## Objetivo
